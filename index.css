@@ -1,0 +1,17 @@
+.guess-card {
+  width: 100%;
+}
+
+.guess-card:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.card-content-width-full {
+  width: 100%;
+}
+
+.card {
+  cursor: pointer;
+}
